@@ -1,42 +1,57 @@
-GManhuntV2
-<p align="center"> A custom <b>Garry's Mod Workshop Addon</b> bringing Manhunt-style gameplay to your server. </p> <p align="center"> Hunt. Escape. Survive. </p> <p align="center"> <img src="https://img.shields.io/badge/Garrys%20Mod-Addon-blue"> <img src="https://img.shields.io/badge/Steam-Workshop-orange"> <img src="https://img.shields.io/badge/Status-Active-success"> </p>
-About
+# 🎯 GManhuntV2
 
-GManhuntV2 is a Steam Workshop addon for Garry’s Mod that introduces a Manhunt-style gameplay system.
+A Garry's Mod Steam Workshop Addon
+Bringing Manhunt-style gameplay to your server.
 
-Players must hunt down targets or evade the hunters, creating intense rounds where awareness, strategy, and teamwork matter.
+[![Steam Workshop](https://img.shields.io/badge/Steam-Workshop-1b2838?logo=steam)](https://steamcommunity.com/workshop/)
+[![Garry's Mod](https://img.shields.io/badge/Game-Garry's%20Mod-orange)](https://store.steampowered.com/app/4000/Garrys_Mod/)
+[![Addon Type](https://img.shields.io/badge/Type-Addon-blue)]()
+[![Status](https://img.shields.io/badge/Status-Active-success)]()
+[![License](https://img.shields.io/badge/License-Open--Source-green)]()
 
-The addon is built to work smoothly on multiplayer servers and installs easily through the Steam Workshop.
+---
 
-Features
+# 📖 About
 
-🔎 Manhunt Gameplay System
-Players hunt or escape depending on their role.
+GManhuntV2 is a Steam Workshop addon for Garry's Mod that introduces a Manhunt-style gameplay system.
 
-⚡ Fast and Intense Rounds
-Designed for quick and engaging gameplay.
+Players must hunt targets or escape from hunters, creating fast-paced rounds where strategy, awareness, and teamwork determine the outcome.
 
-🧠 Strategy-Based Gameplay
-Positioning and decision-making are key to survival.
+The addon is server-friendly, easy to install, and ready for multiplayer gameplay.
 
-🔧 Server Friendly
-Easy installation and compatible with most servers.
+---
 
-📦 Steam Workshop Integration
+# ✨ Features
+
+🔎 **Manhunt Gameplay**  
+Players take different roles and must either hunt the target or survive the hunt.
+
+⚡ **Fast-Paced Rounds**  
+Quick and intense gameplay sessions that keep players engaged.
+
+🧠 **Strategy Based**  
+Smart movement, positioning, and teamwork are key.
+
+🔧 **Server Friendly**  
+Works smoothly on Garry's Mod servers and installs easily.
+
+📦 **Steam Workshop Ready**  
 Subscribe and the addon installs automatically.
 
-Installation
-Steam Workshop (Recommended)
+---
 
-Open the addon on the Steam Workshop
+# 📥 Installation
 
-Click Subscribe
+## Steam Workshop (Recommended)
 
-Launch Garry's Mod
+1. Go to the Steam Workshop page  
+2. Click Subscribe  
+3. Launch Garry's Mod  
+4. The addon installs automatically
 
-The addon will install automatically
+---
 
-Manual Installation
+## Manual Installation
 
 Clone the repository:
 
@@ -48,37 +63,8 @@ garrysmod/addons/
 
 Restart your game or server.
 
-Screenshots
+---
 
-You can add preview images here.
+# 🖼 Preview
 
-Example:
-
-/images/screenshot1.png
-/images/screenshot2.png
-Server Usage
-
-Once installed, the addon loads automatically when the server starts.
-
-Server owners can modify the addon if they want to tweak gameplay behavior.
-
-Contributing
-
-Want to improve the addon?
-
-Fork the repository
-
-Create a new branch
-
-Make your changes
-
-Open a Pull Request
-
-Credits
-
-Created by p-astro16
-
-License
-
-This project is open-source.
-You may modify and redistribute it with proper credit.
+Add screenshots here later.
