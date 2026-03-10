@@ -68,3 +68,36 @@ Restart your game or server.
 # 🖼 Preview
 
 Add screenshots here later.
+
+
+---
+
+# 🖥 Server Usage
+
+Once installed, the addon loads automatically when the server starts.
+
+Server owners can modify or extend the addon if they want to customize gameplay behavior.
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome.
+
+1. Fork the repository  
+2. Create a branch  
+3. Make improvements  
+4. Submit a Pull Request
+
+---
+
+# 👤 Author
+
+Created by **p-astro16**
+
+---
+
+# 📜 License
+
+Open source project.  
+You are free to modify and expand it with proper credit.
