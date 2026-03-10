@@ -1,0 +1,13 @@
+{
+  "title": "Manhunt V2",
+  "type": "ServerContent",
+  "tags": [
+    "fun",
+    "roleplay",
+    "realism"
+  ],
+  "ignore": [
+    "*.md",
+    "*.txt"
+  ]
+}
